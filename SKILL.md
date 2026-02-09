@@ -137,7 +137,3 @@ Skills may use either `SKILL.md` or `skill.md` - check for both.
 - Excluded from zip: `.git`, `node_modules`, `.env`, `.local.md` files, `.DS_Store`
 - Only frontmatter keys `name`, `description`, `license`, `allowed-tools`, `compatibility`, `metadata` are allowed
 - User may need to restart Claude Desktop to see new skills after uploading
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
